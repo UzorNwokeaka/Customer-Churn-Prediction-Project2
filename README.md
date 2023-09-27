@@ -49,3 +49,22 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 
 
 ## Some Insights from the EDA
+
+
+![output_94_0](https://github.com/UzorNwokeaka/Customer-Churn-Prediction-Project2/assets/128752357/82f6f206-01e6-481f-b905-85e0d879a004)
+
+
+![output_98_0](https://github.com/UzorNwokeaka/Customer-Churn-Prediction-Project2/assets/128752357/1d4c9908-70a7-4fd4-9eae-5ca564cfcb4f)
+
+
+![output_52_1](https://github.com/UzorNwokeaka/Customer-Churn-Prediction-Project2/assets/128752357/b97f8fa1-d721-4986-b5a5-19e203b582a5)
+
+
+![output_115_0](https://github.com/UzorNwokeaka/Customer-Churn-Prediction-Project2/assets/128752357/081cd377-f6fb-46ac-b175-6967220ebd19)
+
+
+![output_153_0](https://github.com/UzorNwokeaka/Customer-Churn-Prediction-Project2/assets/128752357/963c0aea-e5bc-479b-8e3d-2fd083cfb8c2)
+
+
+
+
