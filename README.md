@@ -1,8 +1,6 @@
 ## Customer-Churn-Prediction-Project2
 
-A customer churn machine learning prediction model which will help reduce customer attrition, enhance customer loyalty and ensure Connecttel maintains a solid edge in the highly dynamic & competitive telecommunication industry (updated)
-
-## Customer-Churn-Prediction-Project
+A customer churn machine learning prediction model which will help reduce customer attrition, enhance customer loyalty and ensure Connecttel maintains a solid edge in the highly dynamic & competitive telecommunication industry (updated).
 
 In this project, I analyzed, classified and predicted churn customers for a telecoms company using various algorithms under supervised machine learning. 
 
@@ -32,12 +30,22 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 
 •	Performed feature scaling using the labelEncoder function as well as normalization by employing the MinMaxScaler function.
 
+
+## Class Imbalance 
+
+•	Employed the SOMTE technique to address class imbalance & balance distribution within the minority class
+
+
 ## Modeling 
 
-•	Built eight (8) models and selected the top performing four (4) models.
+•	Built eight (8) models and selected the top performing four (3) models.
 
-•	In line with project outcome, I selected the best performing model out of the top four because of the required metrics for the business – Precision & Recall scores. 
+•	In line with project outcome, I selected the best performing model out of the top three because of the required metrics for the business – Precision & Recall scores. 
 
+
+## Hyperparameter Tuning 
+
+•	Hyperparameter tuning was also performed on the selected model (Random Forest Classifier) to optimize the model's performance metrics and also make it suitable to be applicable to real-world business case with class imbalance. 
 
 
 ## Some Insights from the EDA
