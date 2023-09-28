@@ -45,7 +45,7 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 
 ## Hyperparameter Tuning 
 
-•	Hyperparameter tuning was also performed on the selected model (Random Forest Classifier) to optimize the model's performance metrics and also make it suitable to be applicable to real-world business cases with class imbalance. 
+•	Hyperparameter tuning was also performed on the selected model (Random Forest Classifier) to optimize the model's performance metrics and also make it suitable to be applicable to real-world business cases with class imbalance
 
 
 ## Some Insights from the EDA
