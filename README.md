@@ -1,6 +1,6 @@
 ## Customer-Churn-Prediction-Project2
 
-A customer churn machine learning prediction model which will help reduce customer attrition, enhance customer loyalty and ensure Connecttel maintains a solid edge in the highly dynamic & competitive telecommunication industry (updated)
+A customer churn machine learning prediction model which will help reduce customer attrition, enhance customer loyalty and ensure Connecttel maintains a solid edge in the highly dynamic & competitive telecommunication industry (updated).
 
 In this project, I analyzed, classified and predicted churn customers for a telecoms company using various algorithms under supervised machine learning. 
 
