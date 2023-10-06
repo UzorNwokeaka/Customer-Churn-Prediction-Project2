@@ -6,7 +6,7 @@ In this project, I analyzed, classified and predicted churn customers for a tele
 
 ## Resources 
 
-•	Data Source: Data of a global telecommunications company containing 7,043 records and 21 features
+•	Data Source: Data of a global telecommunications company containing 7,043 records and 21 features.
 
 •	Python version: 3.11.4
 
